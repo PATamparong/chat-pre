@@ -22,5 +22,6 @@
   "homepage": "https://github.com/PATamparong/chat-pre#readme",
   "engines": {
     "node": "10.15"
-  }
+  },
+  "keywords": []
 }
