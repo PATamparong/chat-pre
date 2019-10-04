@@ -1,5 +1,5 @@
 {
-  "name": "chat",
+  "name": "chat-pre",
   "version": "1.0.0",
   "description": "A simple chat demo for socket.io",
   "main": "index.js",
@@ -10,9 +10,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PATamparong/chat-pre.git"
+  },
   "author": "Precious Angel Tamparong",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PATamparong/chat-pre/issues"
+  },
+  "homepage": "https://github.com/PATamparong/chat-pre#readme",
   "engines": {
-    "node": "10.15"
-}
+    "node": "10.x"
+  }
 }
